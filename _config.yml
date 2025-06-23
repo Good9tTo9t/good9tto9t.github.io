@@ -16,9 +16,6 @@
 title: Good9tTo9t's Blog
 email: good9tto9t@gmail.com
 description:
-  - Majored in Information Engineering at the ATIHS of NCKU
-  - Python, Web, C++
-  - Mandarin, Taiwanese Hokkien, English, Latin
 twitter_username: Good9tTo9t
 github_username: Good9tTo9t
 instagram_username: Good9tTo9t
@@ -68,7 +65,7 @@ author:
     #  url: "https://good9tto9t.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/{{ site.twitter_username }}"
+      url: "https://x.com/"{{ site.twitter_username }}
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/{{ site.github_username }}"
@@ -80,7 +77,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/{{ site.twitter_username }}"
+      url: "https://x.com/"{{ site.twitter_username }}
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/{{ site.github_username }}"
