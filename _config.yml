@@ -14,8 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Good9tTo9t's Blog
-email: good9tto9t@gmail.com
-
 minimal_mistakes_skin: dark
 search: true
 
@@ -54,33 +52,47 @@ plugins:
 
 author:
   name   : 'Hiro "I-Hung" Wu'
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I do stuff."
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "來自台南的普通高職生。"
   links:
-    - label: "Email"
+    - label: "E-mail"
       icon: "fas fa-fw fa-at"
       url: "mailto:good9tto9t@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      url: "https://x.com/good9tto9t"
+    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Good9tTo9t"
+
+    - label: "YouTube"
+      icon: "fab fa-fw fa-square-youtube"
+      url: "https://www.youtube.com/@Good9tTo9t"
+
+    - label: "Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://x.com/good9tto9t"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/Good9tTo9t"
 
 footer:
   links:
-    - label: "Email"
+    - label: "E-mail"
       icon: "fas fa-fw fa-at"
       url: "mailto:good9tto9t@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      url: "https://x.com/good9tto9t"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Good9tTo9t"
+    
+    - label: "YouTube"
+      icon: "fab fa-fw fa-square-youtube"
+      url: "https://www.youtube.com/@Good9tTo9t"
+
+    - label: "Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://x.com/good9tto9t"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/Good9tTo9t"
