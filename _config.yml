@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Good9tTo9t's Blog
-email: good9tto9t@gmail.com
+title: 'Good9tTo9t's Blog'
+email: 'good9tto9t@gmail.com'
 description: >- # this means to ignore newlines until "baseurl:"
-  - Majored in Information Engineering at the ATIHS of NCKU
+  '- Majored in Information Engineering at the ATIHS of NCKU
   - Python, Web, C++
-  - Mandarin, Taiwanese Hokkien, English, Latin
-twitter_username: Good9tTo9t
-github_username: Good9tTo9t
-minimal_mistakes_skin: default
+  - Mandarin, Taiwanese Hokkien, English, Latin'
+twitter_username: 'Good9tTo9t'
+github_username: 'Good9tTo9t'
+minimal_mistakes_skin: 'dark'
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : 'Hiro "I - Hung" Wu'
+  name   : 'Hiro "I-Hung" Wu'
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I do stuff."
   links:
@@ -67,25 +67,25 @@ author:
     #  url: "https://good9tto9t.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Good9tTo9t"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Good9tTo9t"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/good9tto9t"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/good9tto9t"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/good9tto9t"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/good9tto9t"
 
 defaults:
   # _posts
