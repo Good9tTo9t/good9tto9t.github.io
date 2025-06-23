@@ -15,12 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Good9tTo9t's Blog
 email: good9tto9t@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description:
   - Majored in Information Engineering at the ATIHS of NCKU
   - Python, Web, C++
   - Mandarin, Taiwanese Hokkien, English, Latin
 twitter_username: Good9tTo9t
 github_username: Good9tTo9t
+instagram_username: Good9tTo9t
 minimal_mistakes_skin: dark
 search: true
 
@@ -67,25 +68,25 @@ author:
     #  url: "https://good9tto9t.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Good9tTo9t"
+      url: "https://x.com/{{ site.twitter_username }}"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Good9tTo9t"
+      url: "https://github.com/{{ site.github_username }}"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/good9tto9t"
+      url: "https://instagram.com/{{ site.instagram_username }}"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/good9tto9t"
+      url: "https://x.com/{{ site.twitter_username }}"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/good9tto9t"
+      url: "https://github.com/{{ site.github_username }}"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/good9tto9t"
+      url: "https://instagram.com/{{ site.instagram_username }}"
 
 defaults:
   # _posts
