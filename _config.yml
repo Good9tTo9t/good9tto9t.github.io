@@ -65,7 +65,7 @@ author:
     #  url: "https://good9tto9t.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/"{{ site.twitter_username }}
+      url: "https://x.com/" * {{ site.twitter_username }}
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/{{ site.github_username }}"
