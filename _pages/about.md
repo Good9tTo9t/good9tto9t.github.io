@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "關於我"
 ---
 
 - Majored in Information Engineering at the ATIHS of NCKU
