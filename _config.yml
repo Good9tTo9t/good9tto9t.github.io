@@ -16,9 +16,9 @@
 title: Good9tTo9t's Blog
 email: good9tto9t@gmail.com
 description:
-twitter_username: Good9tTo9t
-github_username: Good9tTo9t
-instagram_username: Good9tTo9t
+x_link: x.com/good9tto9t
+gh_link: github.com/Good9tTo9t
+ig_link: instagram.com/Good9tTo9t
 minimal_mistakes_skin: dark
 search: true
 
@@ -64,26 +64,26 @@ author:
     #  icon: "fas fa-fw fa-link"
     #  url: "https://good9tto9t.github.io"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/"*{{ site.twitter_username }}
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: {{ site.x_link }}
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/{{ site.github_username }}"
+      url: {{ site.gh_link }}
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/{{ site.instagram_username }}"
+      url: {{ site.ig_link }}
 
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/"{{ site.twitter_username }}
+      icon: "fab fa-fw fasquare-x-twitter"
+      url: {{ site.x_link }}
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/{{ site.github_username }}"
+      url: {{ site.gh_link }}
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/{{ site.instagram_username }}"
+      url: {{ site.ig_link }}
 
 defaults:
   # _posts
