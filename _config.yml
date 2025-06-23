@@ -16,9 +16,9 @@
 title: Good9tTo9t's Blog
 email: good9tto9t@gmail.com
 description:
-x_link: x.com/good9tto9t
-gh_link: github.com/Good9tTo9t
-ig_link: instagram.com/Good9tTo9t
+x_link: "https://x.com/good9tto9t"
+gh_link: "https://github.com/Good9tTo9t"
+ig_link: "https://instagram.com/Good9tTo9t"
 minimal_mistakes_skin: dark
 search: true
 
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fasquare-x-twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
       url: {{ site.x_link }}
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
