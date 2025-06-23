@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Good9tTo9t's Blog
 email: good9tto9t@gmail.com
-description:
-x_link: "https://x.com/good9tto9t"
-gh_link: "https://github.com/Good9tTo9t"
-ig_link: "https://instagram.com/Good9tTo9t"
+
 minimal_mistakes_skin: dark
 search: true
 
@@ -60,30 +57,33 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I do stuff."
   links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://good9tto9t.github.io"
+    - label: "Email"
+      icon: "fas fa-fw fa-at"
+      url: "mailto:good9tto9t@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      url: {{ site.x_link }}
+      url: "https://x.com/good9tto9t"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: {{ site.gh_link }}
+      url: "https://github.com/Good9tTo9t"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: {{ site.ig_link }}
+      url: "https://instagram.com/Good9tTo9t"
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-at"
+      url: "mailto:good9tto9t@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      url: {{ site.x_link }}
+      url: "https://x.com/good9tto9t"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: {{ site.gh_link }}
+      url: "https://github.com/Good9tTo9t"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: {{ site.ig_link }}
+      url: "https://instagram.com/Good9tTo9t"
 
 defaults:
   # _posts
