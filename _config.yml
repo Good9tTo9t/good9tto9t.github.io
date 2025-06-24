@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 logo: "/assets/images/logo.png"
 title: Good9tTo9t's Blog
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
