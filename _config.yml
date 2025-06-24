@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+logo: "/assets/images/logo.png"
 title: Good9tTo9t's Blog
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -25,6 +26,9 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: +0800 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+date_format: "%Y-%m-%d"
+enable_copy_code_button: true
+favicon: "/assets/images/favicon.png"
 
 include:
   - _pages
@@ -54,6 +58,7 @@ author:
   name   : 'Hiro "I-Hung" Wu'
   avatar : "/assets/images/bio-photo.png"
   bio    : "來自台南的普通高職生。"
+  location: "Tainan, Taiwan, R.O.C."
   links:
     - label: "E-mail"
       icon: "fas fa-fw fa-at"
@@ -109,6 +114,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
