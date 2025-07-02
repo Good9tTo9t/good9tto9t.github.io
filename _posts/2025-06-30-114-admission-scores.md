@@ -1,6 +1,6 @@
 ---
 title: "114學年度甄選入學 甄選成績"
-last_modified_at: 2025-06-30T04:00:00+0800
+last_modified_at: 2025-07-03T01:30:00+0800
 categories:
   - 升學
 tags:
