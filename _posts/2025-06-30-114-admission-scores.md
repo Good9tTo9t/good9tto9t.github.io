@@ -1,4 +1,5 @@
 ---
+{% include head.html %}
 title: "114學年度甄選入學 甄選成績"
 last_modified_at: 2025-07-03T01:30:00+0800
 categories:
@@ -9,8 +10,6 @@ tags:
   - 雲林科大
   - 高雄科大
 ---
-
-{% include head.html %}
 
 今天甄選入學的成績都公告了，先在這邊給大家參考，7/2順位出來時會再更新。
 
