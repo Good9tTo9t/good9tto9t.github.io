@@ -1,5 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="favicon.png">
 ---
-{% include head.html %}
 title: "114學年度甄選入學 甄選成績"
 last_modified_at: 2025-07-03T01:30:00+0800
 categories:
