@@ -58,7 +58,7 @@ plugins:
 author:
   name   : 'Hiro "I-Hung" Wu'
   avatar : "/assets/images/bio-photo.png"
-  bio    : "來自台南的普通高職生。"
+  bio    : "來自台南的普通科大生。"
   location: "Tainan, Taiwan, R.O.C."
   links:
     - label: "E-mail"
