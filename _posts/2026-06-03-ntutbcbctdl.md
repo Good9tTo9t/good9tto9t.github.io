@@ -1,6 +1,6 @@
 ---
 title: "瓶蓋棒球社 To do list"
-last_modified_at: YYYY-MM-DDTHH:MM:SS+0800
+last_modified_at: 2026-06-03T02:20:00+0800
 categories:
   - 社團
 tags:
